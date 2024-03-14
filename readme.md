@@ -1,4 +1,3 @@
-
 <p >
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey,%20I'm%20here&height=150&section=header" alt="Hey, I'm here!" />
 </p>
