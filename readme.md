@@ -17,19 +17,19 @@ _*I am a Full Stack Engineer , i have a interest in design and programming , tec
 ### Most comfortable with
 
 <div>
-    <img src="https://skillicons.dev/icons?i=react,tailwindcss,typescript,express" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwindcss,typescript,express,nestjs,python,golang" />
 </div>
 
 ### Comprehensive skill set
 
 <div>
-    <img src="https://skillicons.dev/icons?i=nextjs,mysql,mongodb,nodejs,sequelize,redux,styledcomponents&perline=4" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,nodejs,sequelize,redux,styledcomponents&perline=4" />
 </div>
 
 ### Familiar with
 
 <div>
-    <img src="https://skillicons.dev/icons?i=nestjs,docker,firebase&perline=4" />
+    <img src="https://skillicons.dev/icons?i=docker,firebase&perline=4" />
 </div>
 
 ### Tools
@@ -43,7 +43,8 @@ _*I am a Full Stack Engineer , i have a interest in design and programming , tec
 <p>
   <a href="whitenight1201021@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a><a href="https://discord.gg/whitenight.1201">
+  </a>
+  <a href="https://discord.gg/whitenight.1201">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a><a href="https://github.com/whitenight1201/whitenight1201">
     <img src="https://skillicons.dev/icons?i=github" />
